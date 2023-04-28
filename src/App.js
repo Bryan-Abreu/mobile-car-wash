@@ -5,12 +5,14 @@ import GlobalStyle from "./globalSytles";
 import Home from "./pages/Home";
 import SignUp from "./pages/SignUp";
 import Pricing from "./pages/Pricing";
+import Navbar from "./components/nav/Nav";
 
 function App() {
   return (
     <div>
     <BrowserRouter>
       <GlobalStyle /> 
+      <Navbar/>
       <Routes>
         <Route path="/" element={<Home/>} ></Route>
         <Route path="/signup" element={<SignUp/>} ></Route>
