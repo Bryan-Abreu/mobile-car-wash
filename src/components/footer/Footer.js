@@ -27,7 +27,7 @@ function Footer() {
 							J&R
 						</FooterLogo>
 						<FooterAddress>
-							69 Street, Delta Building, US Road, Los Angeles 123
+							Mesa,Arizona
 						</FooterAddress>
 
 						<Row align="center" margin="auto  0 0 0" gap="1rem">
