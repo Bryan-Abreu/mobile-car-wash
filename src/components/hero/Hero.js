@@ -11,7 +11,7 @@ const Hero = () => {
         <HeroVideo autoPlay loop muted src={Video} type='video/mp4'/>
         <Container>
             <MainHeading>Your mobile detailing needs</MainHeading>
-            <HeroText>We proivde the best cleaning services in the vally</HeroText>
+            <HeroText>We proivde the best cleaning services in the valley</HeroText>
             <ButtonWrapper>
                 <Link to='/signup'>
                 <Button>Get Started</Button>

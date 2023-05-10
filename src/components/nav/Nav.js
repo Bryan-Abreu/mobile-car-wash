@@ -11,7 +11,7 @@ const Navbar = () => {
 
     const [show,setShow] = useState(false);
 
-    let history = useNavigate();
+    let nav = useNavigate();
     let location = useLocation();
 
     const clickHandler = () => {
@@ -35,7 +35,7 @@ const Navbar = () => {
         if (id && location.pathname === '/'){
             scrollTo(id);
         }
-        history.push(to);
+        nav(to);
         setShow(false)
     }
 

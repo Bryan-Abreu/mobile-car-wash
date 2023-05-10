@@ -39,7 +39,7 @@ export const heroThree = {
 	},
 	headline: 'Why us? ',
 	description:
-		'Our 3 year experience have allowed us to be the best in the Vally',
+		'Our 3 year experience have allowed us to be the best in the Valley',
 	buttonLabel: 'View Our Customer Rating',
 
 	linkTo: '/download',

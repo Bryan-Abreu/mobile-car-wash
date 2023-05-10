@@ -4,6 +4,7 @@ import Features from '../components/features/Features';
 import {heroOne, heroTwo, heroThree} from '../data/HeroData'
 import { Content } from '../components/content/Content';
 
+
 function Home() {
   return (
     <>
@@ -12,6 +13,7 @@ function Home() {
     <Content {...heroOne}/>
     <Content {...heroTwo}/>
     <Content {...heroThree}/>
+    
     </>
   )
 }
