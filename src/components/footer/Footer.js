@@ -34,7 +34,7 @@ function Footer() {
 							{footerSocialData.map((social, index) => (
 								<FooterSocialIcon
 									key={index}
-									href="https://www.instagram.com/jnrmobilecarwash/s"
+									href="https://www.instagram.com/jnrmobilecarwash/"
 									target="_blank"
 									aria-label={social.name}
 								>

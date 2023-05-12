@@ -14,8 +14,7 @@ const GlobalStyle = createGlobalStyle`
 
 
 export const Container = styled.div`
-width:100%;
-max-width: 1300px;
+width:auto;
 margin-right: auto;
 margin-left: auto;
 padding: 0 50px;

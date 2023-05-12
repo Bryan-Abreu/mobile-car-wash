@@ -47,6 +47,7 @@ export const MobileIcon = styled.div`
 	z-index: 50;
 
 	@media screen and (max-width: 960px) {
+		
 		display: block;
 		position: absolute;
 		top: 0;
@@ -65,11 +66,11 @@ export const NavMenu = styled.ul`
 	width: 100%;
 
 	@media screen and (max-width: 960px) {
+		justify-content: center;
 		flex-direction: column;
 		width: 100%;
 		height: 100vh;
 		position: fixed;
-		padding-top: 30%;
 		top: 0;
 		left: 0;
 		opacity: ${({ show }) => (show ? 1 : 0)};
@@ -112,9 +113,10 @@ export const NavLinks = styled.span`
 
 	@media screen and (max-width: 960px) {
 		text-align: center;
-		padding: 2rem;
+		padding: 0;
 		width: 100%;
 		display: table;
+	
 
 		&:hover {
 			color: #4b59f7;

@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 export const ContentRow = styled.div`
 	display: flex;
-	margin: 0 -15px -15px -15px;
+	margin: 0 ;
 	flex-wrap: wrap;
 	align-items: center;
 	flex-direction: ${({ reverse }) => (reverse ? 'row-reverse' : 'row')};
@@ -18,7 +18,7 @@ export const ContentColumn = styled(motion.div)`
 	margin-bottom: 15px;
 	padding-right: 15px;
 	padding-left: 15px;
-	flex: 1;
+	/* flex: 1; */
 	z-index: 10;
 	display: flex;
 	flex-direction: column;
