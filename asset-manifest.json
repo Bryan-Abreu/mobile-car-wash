@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/mobile-car-wash/static/js/main.9750e341.js",
-    "static/media/detailing.mp4": "/mobile-car-wash/static/media/detailing.4e965f9ce53a3ca69cc2.mp4",
-    "static/media/car3.jpg": "/mobile-car-wash/static/media/car3.b5cc81baca1f77ecb497.jpg",
-    "static/media/car2.jpg": "/mobile-car-wash/static/media/car2.30ba830b75a66b86d064.jpg",
-    "static/media/car1.jpg": "/mobile-car-wash/static/media/car1.27510c07ffdd65505dd7.jpg",
-    "static/media/logocar.png": "/mobile-car-wash/static/media/logocar.394fa5f9ffc38bc8a88d.png",
-    "index.html": "/mobile-car-wash/index.html",
-    "main.9750e341.js.map": "/mobile-car-wash/static/js/main.9750e341.js.map"
+    "main.js": "/static/js/main.b4b070e0.js",
+    "static/media/detailing.mp4": "/static/media/detailing.4e965f9ce53a3ca69cc2.mp4",
+    "static/media/car3.jpg": "/static/media/car3.b5cc81baca1f77ecb497.jpg",
+    "static/media/car2.jpg": "/static/media/car2.30ba830b75a66b86d064.jpg",
+    "static/media/car1.jpg": "/static/media/car1.27510c07ffdd65505dd7.jpg",
+    "static/media/logocar.png": "/static/media/logocar.394fa5f9ffc38bc8a88d.png",
+    "index.html": "/index.html",
+    "main.b4b070e0.js.map": "/static/js/main.b4b070e0.js.map"
   },
   "entrypoints": [
-    "static/js/main.9750e341.js"
+    "static/js/main.b4b070e0.js"
   ]
 }
