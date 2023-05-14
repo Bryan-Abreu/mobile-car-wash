@@ -10,38 +10,38 @@ const iconStyle = (Icon) => <Icon size="3rem" color="#0f0f0f" />;
 export const featuresData = [
 	{
 		name: 'Quick',
-		description: 'Fast and detailed',
+		description: 'Quick and thorough',
 		icon: iconStyle(BsClockHistory),
 		imgClass: 'one',
 	},
 	{
 		name: 'Attention to Detail',
-		description: 'We care to make you feel at ease',
+		description: 'We prioritize making you feel comfortable and at ease.',
 		icon: iconStyle(GiMagnifyingGlass),
 		imgClass: 'two',
 	},
 	{
-		name: 'We Bring Water',
-		description: 'We bring our own water',
+		name: 'We provide our own water',
+		description: "We bring our own water to ensure that we don't waste yours.",
 		icon: iconStyle(MdWaterDrop),
 		imgClass: 'three',
 	},
 	{
 		name: 'Shampoo',
-		description: 'We can shampoo your seats, carpet and anything else you want done',
+		description: 'We offer shampooing services for your seats, carpets, and any other areas that require cleaning.',
 		icon: iconStyle(GiVacuumCleaner),
 		imgClass: 'four',
 	},
 	{
 		name: 'Price',
-		description: 'We offer the highest value/cost ratio',
+		description: 'We provide the best value for your money.',
 		icon: iconStyle(BiDollar),
 		imgClass: 'five',
 	},
 	{
 		name: 'Engine Cleaning',
 		description:
-			'We can clean your engine and make it look back to factory ',
+			'We possess the capability to thoroughly clean your engine, thereby restoring it to its original factory appearance or even better.',
 		icon: iconStyle(TbEngine),
 		imgClass: 'six',
 	},
