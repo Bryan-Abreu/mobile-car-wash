@@ -1,6 +1,6 @@
 export const data = [
     {
-        to: '/',
+        to: '/About',
         text: 'About',
         id:'about'
     },
@@ -11,5 +11,10 @@ export const data = [
     {
         to: '/singup',
         text: 'Contact'
+    },
+    {
+        to:'/',
+        text:'Gallery',
+        id:'gallery'
     }
 ];

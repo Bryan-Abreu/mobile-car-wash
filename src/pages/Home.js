@@ -3,6 +3,7 @@ import Hero from '../components/hero/Hero';
 import Features from '../components/features/Features';
 import {heroOne, heroTwo, heroThree} from '../data/HeroData'
 import { Content } from '../components/content/Content';
+import Carousel from '../components/carousel/Carousel';
 
 
 function Home() {
@@ -13,7 +14,7 @@ function Home() {
     <Content {...heroOne}/>
     <Content {...heroTwo}/>
     <Content {...heroThree}/>
-    
+    <Carousel />
     </>
   )
 }

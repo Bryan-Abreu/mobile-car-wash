@@ -39,8 +39,8 @@ export const heroThree = {
 	},
 	headline: 'Why us? ',
 	description:
-		'Our 3 year experience have allowed us to be the best in the Valley',
-	buttonLabel: 'View Our Customer Rating',
+		'We offer mobile detailing services that cover interior, exterior, polishing, and engine bay detailing for your vehicle. Our team is flexible and willing to come to your preferred location, be it your home, office, or any other place that suits your convenience. Our services include the application of top-notch sealants, dressings, conditioners, and carnauba waxes to protect your vehicle from the harsh elements of Arizona and keep it shining.',
+	buttonLabel: 'Contact us today!',
 
 	linkTo: '/download',
 	imgStart: '',
