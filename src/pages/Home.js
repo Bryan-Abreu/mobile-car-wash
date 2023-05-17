@@ -10,6 +10,7 @@ function Home() {
   return (
     <>
     <Hero/>
+   {/*  <Content {...herofour}/> */}
     <Features />
     <Content {...heroOne}/>
     <Content {...heroTwo}/>
