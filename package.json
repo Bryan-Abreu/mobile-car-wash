@@ -1,7 +1,7 @@
 {
   "name": "react-mobile-car-wash",
   "version": "0.1.0",
-  "homepage": "http://Bryan-Abreu.github.io/",
+  "homepage": "http://Bryan-Abreu.github.io/mobile-car-wash",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
